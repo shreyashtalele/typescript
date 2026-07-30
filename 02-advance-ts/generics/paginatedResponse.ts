@@ -25,3 +25,5 @@ const paginatedUserResponse: paginatedResponse<User> = {
     },
   ],
 };
+
+export {};
